@@ -12,7 +12,6 @@ import re
 from dataclasses import dataclass
 
 from langchain_core.messages import HumanMessage, SystemMessage
-from langchain_google_genai import ChatGoogleGenerativeAI
 
 from agents.base import AgentOutput
 
