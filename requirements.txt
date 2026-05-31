@@ -8,7 +8,7 @@ langchain-groq
 
 faiss-cpu>=1.13.2
 numpy==1.26.4
-
+pillow==10.2.0
 pypdf
 pdfminer.six
 tiktoken
