@@ -3,17 +3,16 @@ streamlit==1.32.0
 langchain==0.1.17
 langchain-community==0.0.38
 langchain-text-splitters==0.0.1
-
 langchain-groq
 
-faiss-cpu>=1.13.2
+chromadb==0.4.24
+
 numpy==1.26.4
+
 pillow==10.2.0
+
 pypdf
-pdfminer.six
 tiktoken
 python-dotenv
-
-pandas
 
 groq
