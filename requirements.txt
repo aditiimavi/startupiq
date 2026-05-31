@@ -6,8 +6,7 @@ langchain-chroma>=0.2.0
 langchain-text-splitters>=0.3.0
 langchain-groq
 
-chromadb==0.4.24
-
+faiss-cpu
 numpy==1.26.4
 
 pypdf>=4.0.0
