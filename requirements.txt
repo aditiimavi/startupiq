@@ -21,3 +21,6 @@ scikit-learn
 
 sentence-transformers
 groq
+
+langchain-community
+sentence-transformers
