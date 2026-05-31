@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+.chroma/
+chroma_db/
+.venv/
+venv/
+uploads/*.pdf
+.streamlit/secrets.toml
