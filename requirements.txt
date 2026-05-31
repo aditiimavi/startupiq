@@ -4,8 +4,11 @@ langchain>=0.3.0
 langchain-community>=0.3.0
 langchain-chroma>=0.2.0
 langchain-text-splitters>=0.3.0
+langchain-groq
 
-chromadb>=0.4.24,<0.5.0
+chromadb==0.4.24
+
+numpy==1.26.4
 
 pypdf>=4.0.0
 pdfminer.six>=20231228
@@ -13,8 +16,7 @@ pdfminer.six>=20231228
 tiktoken>=0.7.0
 python-dotenv>=1.0.0
 
-numpy
 pandas
+scikit-learn
 
 groq
-langchain-groq
